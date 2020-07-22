@@ -1,6 +1,4 @@
-Title : Implement grep commannd
-Name : Hrishikesh Sambhaji Chavan
-MIS : 111703012
+    grep commannd implementation
 
 Options Description:
 -r : Read all files  under each directory,recursively.
