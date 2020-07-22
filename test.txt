@@ -1,0 +1,17 @@
+./mygrep -H pattern filename
+./mygrep -h pattern filename
+./mygrep -b pattern filename
+./mygrep -w pattern filename
+./mygrep -m maxcount pattern filename
+./mygrep -c pattern filename
+./mygrep -q pattern filename
+./mygrep -v pattern filename
+./mygrep -i pattern filename
+./mygrep -f patternfile filename
+./mygrep -r pattern directory(or file)
+(and any combination of above cases)
+./mygrep -e -r -e -v filename
+./mygrep -e ^int filename
+./mygrep -e int$ filename
+./mygrep -e .pattern filename
+./mygrep -e pattern? filename
